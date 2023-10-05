@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Tá mé ag caint!
+          I was changed
         </a>
       </header>
     </div>
